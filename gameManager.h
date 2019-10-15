@@ -35,7 +35,6 @@ class GameManager : public GameObject
 	bool check = true;
 
 	unsigned int score = 0;
-    int checking;
 
 	int randNum1, randNum2, randNum3, randNum4;
 
